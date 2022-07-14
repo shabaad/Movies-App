@@ -2,6 +2,7 @@
 
 A Netflix Clone
 
+Apk file is in apk files folder
 ## Getting Started
 
 This project is a starting point for a Flutter application.
